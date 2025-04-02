@@ -33,7 +33,7 @@
 		TRAIT_USES_SKINTONES,
 	)
 
-	always_customizable = TRUE
+	always_customizable = FALSE
 
 /datum/species/human/felinid/primitive/get_default_mutant_bodyparts()
 	return list(

@@ -58,7 +58,7 @@
 	lizard.update_body(TRUE)
 
 /datum/species/lizard/ashwalker
-	always_customizable = TRUE
+	always_customizable = FALSE
 	inherent_traits = list(
 		TRAIT_NO_UNDERWEAR,
 		TRAIT_MUTANT_COLORS,
